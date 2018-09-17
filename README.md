@@ -2,7 +2,9 @@
 Datormācības kursā elektroniskā klade  
 **ctrl + L** - notīrīt ekrānu  
 **history** - parāda visas komandas, kuras tika izmantotas terminālā  
-**history > history_ .txt** - pārvietot vēsturi failā
+**>** - pārvieto  
+**uname** - parāda sistēmas informāciju  
+**man** - parāda komandas  
 **echo $0** - parāda, ar kādu datora veidu mēs sarakstamies  
 **ctrl + ALt + T** - atvērt terminālu  
 **whoami** - kas es esmu  
@@ -15,4 +17,17 @@ Datormācības kursā elektroniskā klade
 **ls** - parādīt kataloga saturu, kurā tagad atrodas  
 **ls -l** - detalizēti parādīt, ko satur katalogs (faili,mapes), kurā tagad atrodas  
 **ls -a** - parādīt apsleptus failus un mapes, kuras satur katalogs, kurā tagad atrodies  
+**cd** - pārvietošanās mapēs
+**.** - norāda tekošo vietu  
+**..** - norāda uz mapīti līmeni augstāk  
+**cp** - failu kopēšana  
+**mv** - pārvietošana  
+**mkdir** - izveido mapi  
+**rmdir** - dzēst mapi  
+**rm file** - izdzēst failu  
+**~** - relatīvā adrese  
+**/** - pilnā (absolūtā) adrese  
+**cat** - lasa failus kā tekstus (pielieto tikai teksta failiem)  
+**bultiņas uz augšu/leju** - ļauj pārvietoties starp komandām  
+**rwxrwxrwx** - read/write/execute, saimnieka grupa, visa ārējā pasaule    
 :smirk_cat:
