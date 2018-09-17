@@ -1,20 +1,34 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  men uname
-    4  uname
-    5  men uname
-    6  uname -a
-    7  echo $0
-    8  sh
-    9  echo $0
-   10  whoami
-   11  who
-   12  pwd
-   13  man pwd
-   14  ls
-   15  ls -l
-   16  ls
-   17  ls -a
-   18  ls -la
-   19  history
-   20  history >history_20180917.txt
+    3  exit
+    4  quartus
+    5  uname
+    6  men uname
+    7  uname
+    8  ls
+    9  cd
+   10  ls -l
+   11  cp fails2.txt fails3.txt
+   12  ls -l
+   13  mv fails1.txt Music/
+   14  ls -l
+   15  cd Music/
+   16  ls -l
+   17  cd ..
+   18  ls
+   19  mv fails*.txt Music/
+   20  ls
+   21  cd Music/
+   22  ls
+   23  mv fails3.txt fails4.txt
+   24  ls
+   25  mv fails1.txt ../fails101.txt
+   26  ls
+   27  cd ..
+   28  ls
+   29  mv Music/*.txt ./
+   30  ls
+   31  rm fails*.txt
+   32  ls
+   33  history
+   34  history > history_20180917.txt 
