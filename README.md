@@ -2,7 +2,7 @@
 Datormācības kursā elektroniskā klade  
 **ctrl + L** - notīrīt ekrānu  
 **history** - parāda visas komandas, kuras tika izmantotas terminālā  
-**>** - pārvieto  
+**>** - pārvieto vēsturi    
 **uname** - parāda sistēmas informāciju  
 **man** - parāda komandas  
 **echo $0** - parāda, ar kādu datora veidu mēs sarakstamies  
@@ -34,7 +34,22 @@ Datormācības kursā elektroniskā klade
 **#!/bin/bash** - ar kādu interpretātoru tālākās darbības interpretēt  
 **tab** - parāda piedāvātās izpildamās komandas  
 **./** - paņemt šeit  
-**chmod** - maina tiesības  
+**chmod 764** - maina tiesības  
+**echo $PATH** -    
 **ctrl + z** - var apturēt teksta redaktoru  
-**=** - piešķiršanas operācija (viss tas, kas ir pa labi, tiek piešķirts tam, kas pa kreisi)        
+**=** - piešķiršanas operācija (viss tas, kas ir pa labi, tiek piešķirts tam, kas pa kreisi)  
+**rm -rf** - dzēšana bez jautājuma  
+**git clone** - ieiet savā repozitārijā    
+**python** - ieiet pitonā  
+**vars()** - dabū objektu sarakstu    
+**__builtins__.__doc__** - objekta dokumentācijas pieprasīšana  
+**print(__builtins__.__doc__)** -    
+**integer** - veselais skaitlis  
+**floating print number** - skaitlis ar komatu  
+**exit()** - iziet  
+**ipython** - komunicējam ar pitona interpretetāju  
+**idle &** - cits pitona interpretetājs  
+**#** - komentārs teksta redaktorā  
+**ctrl + z** - saglabāt teksta redaktoru  
+**ctrl + K un ctrl + U** - paturēt un nokopēt       
 :smirk_cat:
