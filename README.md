@@ -29,5 +29,12 @@ Datormācības kursā elektroniskā klade
 **/** - pilnā (absolūtā) adrese  
 **cat** - lasa failus kā tekstus (pielieto tikai teksta failiem)  
 **bultiņas uz augšu/leju** - ļauj pārvietoties starp komandām  
-**rwxrwxrwx** - read/write/execute, saimnieka grupa, visa ārējā pasaule    
+**rwxrwxrwx** - read/write/execute, saimnieka grupa, visa ārējā pasaule 
+**nano** - teksta redaktors  
+**#!/bin/bash** - ar kādu interpretātoru tālākās darbības interpretēt  
+**tab** - parāda piedāvātās izpildamās komandas  
+**./** - paņemt šeit  
+**chmod** - maina tiesības  
+**ctrl + z** - var apturēt teksta redaktoru  
+**=** - piešķiršanas operācija (viss tas, kas ir pa labi, tiek piešķirts tam, kas pa kreisi)        
 :smirk_cat:
