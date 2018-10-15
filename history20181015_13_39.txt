@@ -18,4 +18,3 @@
    18  idle &
    19  ls -l
    20  history > history20181015_13_39.txt
-   21  history > history_20181015.txt
