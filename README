@@ -1,0 +1,17 @@
+#**Strings**  
+#A string is a sequence of characters & uses quotes **'Hello'** or **"Hello"**   
+#str1 = "Hello"  
+#str2 = 'there'  
+#For strings, + means **“concatenate”**  
+#bob = str1 + str2  
+#print(bob)  
+#Hellothere  
+#When a string contains numbers, it is still a string  
+#str3 = '123'  
+#str3 = str3 + 1  
+#error  
+#We can convert numbers in a string into a number using **int()**  
+#x = int(str3) + 1  
+#print(x)  
+#124
+
