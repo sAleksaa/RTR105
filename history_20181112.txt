@@ -1,13 +1,11 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  ls -l
-    4  git clone https://github.com/sAleksaa/RTR105
-    5  cd RTR105
-    6  idle &
-    7  file mbox.txt
-    8  mk file mbox.txt
-    9  mkfile mbox.txt
-   10  nano mbox.txt
-   11  nano mbox-short.txt
-   12  nano mbox-short.txt 
-   13  history > history_20181112.txt
+    3  firefox &
+    4  pwd
+    5  ls
+    6  cd RTR105/
+    7  nano dgr_sin_caur_summu_ver1.py
+    8  nano sin_caur_summu_ver2.py
+    9  nano sin_caur_summu_ver3.py
+   10  ls -l
+   11  history > history_20181112.txt
