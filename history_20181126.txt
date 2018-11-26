@@ -4,7 +4,3 @@
     4  python
     5  nano
     6  history > history_20181126.txt
-    7  ./git-upload 20181126_11_57
-    8  git clone https://github.com/sAleksaa/RTR105
-    9  cd RTR105
-   10  history > history_20181126.txt
